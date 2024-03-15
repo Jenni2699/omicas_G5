@@ -1,9 +1,9 @@
 #Bienvenidos
 ## Somos el grupo 5
 ### Integrantes
-+Meitner Cedena
-+Maria José Montesdeoca
-+Jennifer Guevara
++ Meitner Cedena
++ Maria José Montesdeoca
++ Jennifer Guevara
 
 ## Introducción
 
